@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cur2png", "cur2png\cur2png.csproj", "{714CC66A-00ED-4CB4-9B95-A401F1E825D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{714CC66A-00ED-4CB4-9B95-A401F1E825D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{714CC66A-00ED-4CB4-9B95-A401F1E825D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{714CC66A-00ED-4CB4-9B95-A401F1E825D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{714CC66A-00ED-4CB4-9B95-A401F1E825D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2659C7A8-D100-49C8-A35A-EF5194F90304}
+	EndGlobalSection
+EndGlobal
