@@ -15,7 +15,7 @@ Only Windows (Vista or greater).
 
 ## Usage
 
-Call this program on a shell/terminal with thre `-f` parameter to specify a folder and this will generate.
+Call this program on a shell/terminal with thre `-f` parameter to specify a target folder where cursor files (.cur) will be readed from.
 
 **Example:**
 
